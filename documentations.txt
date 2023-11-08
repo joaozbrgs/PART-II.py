@@ -1,0 +1,4 @@
+This will work for me as the README file.
+
+Fisrt thig we need to understand are the ways to handle data in python and compound variables
+tuple, list, dictionary
