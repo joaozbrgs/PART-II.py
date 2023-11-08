@@ -2,3 +2,9 @@ This will work for me as the README file.
 
 Fisrt thig we need to understand are the ways to handle data in python and compound variables
 tuple, list, dictionary
+
+tuples'()': are imutable. You cannot change the values within it while running the program. 
+Ideal to store and keep data, it will not change.
+
+list '[]': can be modified. 
+
